@@ -5,6 +5,7 @@
 - **[SDG-targets.csv](SDG-targets.csv):**  A CSV file of the targets (code and description).
 - **[SDG-indicators_proposed-2016-03-24.csv](SDG-indicators_proposed-2016-03-24.csv):** A CSV file of the proposed indicators, as described below.
 - **[json versions](json versions)**: A folder containing a python script that reads in the information from the above CSV files, and outputs it to various json files. The script and its output files are described [here](json versions/README.md).
+- **[sdgTargets.js](sdgTargets.js)**: A JavaScript file exporting an object which contains all targets with a short description as well as the corresponding image/icon for the target.
 
 *Please feel free to report any errors in the [issues](https://github.com/datapopalliance/SDGs/issues) section or by emailing [research@datapopalliance.org](mailto:research@datapopalliance.org).*
 
